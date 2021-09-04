@@ -1,1 +1,3 @@
-print("Hello World")
+a = input("введи ")
+print a
+
